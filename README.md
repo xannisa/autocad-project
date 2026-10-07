@@ -5,7 +5,7 @@ This is the Autocad Project for designing electrical wiring in the hospital and 
 Include Single Line Diagram and wiring methods.
 
 ## 1. House
-![AutoCAD Layout](House-Model.pdf)
+![AutoCAD Layout](house.png)
 
 ## 2. Hospital
-![AutoCAD Layout](Hospital-Wiring-SLD-Model.pdf)
+![AutoCAD Layout](hospital.png)
